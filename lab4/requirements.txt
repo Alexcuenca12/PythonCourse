@@ -1,0 +1,2 @@
+# SQLite viene preinstalado con Python
+# No es necesario incluir sqlite3 aquí, pero puedes agregar otras dependencias
